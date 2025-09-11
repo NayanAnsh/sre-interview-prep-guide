@@ -63,8 +63,8 @@ Contributions are always welcome!
 
 ## Networking
 
-- [ ] [The Internet explained from first principles](https://explained-from-first-principles.com/internet)
-- [ ] [Network protocols for anyone who knows a programming language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
+- [X] [The Internet explained from first principles](https://explained-from-first-principles.com/internet)
+- [X] [Network protocols for anyone who knows a programming language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 - [ ] [Introduction to Linux interfaces for virtual networking](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking)
 - [ ] [Multi-tier load-balancing with Linux](https://vincent.bernat.ch/en/blog/2018-multi-tier-loadbalancer)
 - [ ] [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
@@ -73,15 +73,15 @@ Contributions are always welcome!
 
 ## Containers
 
-- [ ] [Introduction to Docker and Containers](http://container.training/intro-selfpaced.yml.html)
+- [x] [Introduction to Docker and Containers](http://container.training/intro-selfpaced.yml.html)
 - [ ] [Containers Patterns](https://l0rd.github.io/containerspatterns)
-- [ ] [Docker Container Anti Patterns](https://blog.couchbase.com/docker-container-anti-patterns/)
-- [ ] [Anti-Patterns When Building Container Images](https://jpetazzo.github.io/2021/11/30/docker-build-container-images-antipatterns)
+- [x] [Docker Container Anti Patterns](https://blog.couchbase.com/docker-container-anti-patterns/)
+- [x] [Anti-Patterns When Building Container Images](https://jpetazzo.github.io/2021/11/30/docker-build-container-images-antipatterns)
 
 ## Kubernetes
 
 - [ ] [Deploying and Scaling Microservices with Docker and Kubernetes](http://container.training/kube-selfpaced.yml.html)
-- [ ] [Demystifying the Kubernetes Iceberg](https://asankov.dev/post/demystifying-the-kubernetes-iceberg-1)
+- [x] [Demystifying the Kubernetes Iceberg](https://asankov.dev/post/demystifying-the-kubernetes-iceberg-1)
 - [ ] [What happens when ... Kubernetes edition!](https://github.com/jamiehannaford/what-happens-when-k8s/blob/master/README.md)
 - [ ] [Kubernetes Production Patterns](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
 - [ ] [Kubernetes production best practices](https://learnkube.com/production-best-practices)
@@ -98,12 +98,12 @@ Contributions are always welcome!
 
 ## Infrastructure as code / Configuration management
 
-- [ ] [Terraform](https://learn.hashicorp.com/terraform)
+- [x] [Terraform](https://learn.hashicorp.com/terraform)
 - [ ] [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca)
-- [ ] [Ansible](https://github.com/leucos/ansible-tuto)
-- [ ] [Getting Started With Terraform on AWS](https://spacelift.io/blog/terraform-tutorial)
-- [ ] [Google Cloud: Best practices for using Terraform](https://cloud.google.com/docs/terraform/best-practices-for-terraform)
-- [ ] [Terraform Roadmap](https://roadmap.sh/terraform)
+- [x] [Ansible](https://github.com/leucos/ansible-tuto)
+- [x] [Getting Started With Terraform on AWS](https://spacelift.io/blog/terraform-tutorial)
+- [x] [Google Cloud: Best practices for using Terraform](https://cloud.google.com/docs/terraform/best-practices-for-terraform)
+- [x] [Terraform Roadmap](https://roadmap.sh/terraform)
 
 ## Databases
 
@@ -130,7 +130,7 @@ Contributions are always welcome!
 
 ## Clouds
 
-- [ ] [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
+- [x] [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
 - [ ] [Learning Azure](https://docs.microsoft.com/en-us/learn/azure/)
 - [ ] [Hands-On Training with GCP](https://cloud.google.com/training/badges)
 
